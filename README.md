@@ -4,3 +4,8 @@ Hey, I'm Daniel and I like working with audio. I am a sound designer, musician a
 chibeetz/chibeetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+| Category | Details |
+| :--- | :--- |
+| **Role** | Full-Stack Developer |
+| **Current Project** | Building an open-source CLI tool |
+| **Tech Stack** | TypeScript, Python, PostgreSQL |
